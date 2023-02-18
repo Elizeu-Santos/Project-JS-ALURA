@@ -1,5 +1,5 @@
 # Project-JS-ALURA
-# Introdução a linguagem
-# Trabalhando com muitos elementos
-# Condicionais e fluxo de execução
-# Iterando sobre coleções
+<p> Introdução a linguage</p>
+<p> Trabalhando com muitos elementos</p>
+<p> Condicionais e fluxo de execução </p>
+<p> Iterando sobre coleções </p>
